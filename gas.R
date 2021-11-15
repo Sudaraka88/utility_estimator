@@ -1,4 +1,4 @@
-# A function for bill estimate mod
+# A function for bill estimate
 # actual_usage = c(1855.24, 1839.04, 4644.57, 4398.56, 2852.05)
 
 library(ggplot2)
